@@ -1,0 +1,8 @@
+[
+  { "latitude": 18.6135, "longitude": 79.3741, "timestamp": "2024-07-20T08:00:00Z", "label": "Peddapelli - Starting Point" },
+  { "latitude": 18.4367, "longitude": 79.1288, "timestamp": "2024-07-20T08:30:00Z", "label": "Waypoint 1 - Ramagundam" },
+  { "latitude": 18.1833, "longitude": 79.4287, "timestamp": "2024-07-20T09:00:00Z", "label": "Waypoint 2 - Karimnagar" },
+  { "latitude": 17.9948, "longitude": 78.6100, "timestamp": "2024-07-20T10:00:00Z", "label": "Waypoint 3 - Siddipet" },
+  { "latitude": 17.5701, "longitude": 78.3842, "timestamp": "2024-07-20T10:45:00Z", "label": "Waypoint 4 - Medchal" },
+  { "latitude": 17.3850, "longitude": 78.4867, "timestamp": "2024-07-20T11:15:00Z", "label": "Hyderabad - Destination" }
+]
